@@ -1,0 +1,6 @@
+C:\Users\caswi\source\repos\ToolBoxDemo\ToolBoxDemo\bin\Debug\ToolBoxDemo.exe.config
+C:\Users\caswi\source\repos\ToolBoxDemo\ToolBoxDemo\bin\Debug\ToolBoxDemo.exe
+C:\Users\caswi\source\repos\ToolBoxDemo\ToolBoxDemo\bin\Debug\ToolBoxDemo.pdb
+C:\Users\caswi\source\repos\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.csprojAssemblyReference.cache
+C:\Users\caswi\source\repos\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.exe
+C:\Users\caswi\source\repos\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.pdb
